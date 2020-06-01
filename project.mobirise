@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Clark Crafts",
-    "currentPage": "index.html",
+    "currentPage": "getwell.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -4135,26 +4135,13 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/cc-46-1968x1968.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/cc-46-1968x1968-800x800.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/cc-14-1968x1968.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/cc-14-1968x1968-800x800.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
