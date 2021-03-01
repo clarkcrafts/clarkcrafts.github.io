@@ -47,13 +47,13 @@
     "screenshot": "screenshot.png",
     "favicon": false,
     "robotsSwitcher": false,
-    "sitemapSwitcher": false,
+    "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
-    "siteUrl": false,
-    "cookiesAlert": false,
+    "siteUrl": "https://clarkcrafts.github.io/index.html",
     "publishChangesOnly": false,
     "mbrsiteDomain": "gyz05m9cxi",
-    "gdpr": false
+    "gdpr": false,
+    "cookiesAlert": false
   },
   "pages": {
     "index.html": {
@@ -63,7 +63,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/p1099912-1968x1968.jpeg"
       },
       "components": [
         {
