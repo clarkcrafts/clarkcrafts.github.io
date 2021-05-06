@@ -1137,6 +1137,16 @@ section.lazy-placeholder:after {
     padding-top: 3rem;
   }
 }
+.cid-swF1G4BZ9T .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-swF1G4BZ9T .media-container-row .mbr-figure {
+    padding-left: 0;
+    padding-right: 4rem;
+  }
+}
 .cid-s0oAAuRK45 {
   padding-top: 60px;
   padding-bottom: 30px;
